@@ -12,7 +12,7 @@ for line in sys.stdin:
     line=line.strip()
 #--- split the line into words ---
     words=line.split()
-#--- output tuples [word, 1] in tab-delimited format---
+#--- remove the stop words and add the remaining words to a dictionary---
     for word in words:
         if word not in stop_words:
             if word in e_book_dictionary:
@@ -22,6 +22,9 @@ for line in sys.stdin:
 
     #for word in e_book_dictionary.keys():
     #    print(word + " " + str(e_book_dictionary[word]))        
-
-    for word in sorted(e_book_dictionary, key = e_book_dictionary.get,reverse=True):
-        print (word,e_book_dictionary[word])
+    #---print the top 50 words that begins with or ends with 'e'
+    for top_words in range(0,50):
+        for word in sorted(e_book_dictionary, key = e_book_dictionary.get,reverse=True):
+            if word.startswith('e') or word.endswith('e'):
+                print (word,e_book_dictionary[word])
+                top_words = top_words + 1
