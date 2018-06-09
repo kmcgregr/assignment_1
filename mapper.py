@@ -19,4 +19,9 @@ for line in sys.stdin:
                 e_book_dictionary[word] = e_book_dictionary[word] + 1
             else:
                 e_book_dictionary[word] = 1
-            print ("%s\t%s" %(word,"1"))
+
+    #for word in e_book_dictionary.keys():
+    #    print(word + " " + str(e_book_dictionary[word]))        
+
+    for word in sorted(e_book_dictionary, key = e_book_dictionary.get,reverse=True):
+        print (word,e_book_dictionary[word])
