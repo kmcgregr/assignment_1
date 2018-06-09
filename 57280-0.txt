@@ -1,0 +1,1716 @@
+﻿The Project Gutenberg EBook of The Fern Bulletin, April 1912, by Various
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: The Fern Bulletin, April 1912
+       A Quarterly Devoted to Ferns
+
+Author: Various
+
+Editor: Willard N. Clute
+
+Release Date: June 5, 2018 [EBook #57280]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE FERN BULLETIN, APRIL 1912 ***
+
+
+
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+
+
+
+
+
+
+
+
+                          _Vol. XX_    _No. 2_
+
+
+
+
+                                  _The
+                             Fern Bulletin_
+
+
+                     _A Quarterly Devoted to Ferns_
+
+
+                                _April_
+
+
+                             _Joliet, Ill.
+                      Willard N. Clute & Company_
+                                  1912
+
+    [Illustration: The Fern Bulletin: A QUARTERLY DEVOTED TO FERNS]
+
+             _AWARDED GRAND PRIZE AT THE PARIS EXPOSITION_
+                  _25 Cents a Copy_    _$1.00 a Year_
+                        WILLARD N. CLUTE, EDITOR
+
+To insure subscribers against loss of one or more numbers between the
+expiration and renewal of their subscriptions the journal will be sent
+until ordered stopped. All arrearages must be paid. Remittances may be
+made by money order, stamps, currency or drafts and personal checks
+drawn on Chicago or New York. Checks on other banks must contain 10
+cents for collection.
+
+          WILLARD N. CLUTE & COMPANY, PUBLISHERS, JOLIET, ILL.
+
+ Entered at the Post Office, Joliet, Ill., as second-class mail matter
+
+
+                          60 YEARS’ EXPERIENCE
+
+                                Patents
+                              Trade Marks
+                                Designs
+                             Copyrights &c.
+
+Anyone sending a sketch and description may quickly ascertain our
+opinion free whether an invention is probably patentable. Communications
+strictly confidential. HANDBOOK on Patents sent free. Oldest agency for
+securing patents.
+
+Patents taken through Munn & Co. receive _special notice_, without
+charge, in the
+
+                         _Scientific American._
+
+A handsomely Illustrated weekly. Largest circulation of any scientific
+journal. Terms, $3 a year; four months, $1. Sold by all newsdealers.
+
+                   MUNN & Co. 361 Broadway, New York
+               Branch Office, 626 F St. Washington, D.C.
+
+
+                               VOLUME VI
+                              Out of Print
+
+It is not likely that there will be any more “last appearances” of
+Volume VI. The best we can do now is to begin with volume VII. We offer
+the next 13 volumes (7-19) for $9.00 and will present to each purchaser
+a copy of 10 year index, Boston Meeting Papers and Ferns of Upper
+Susquehanna as well as 3 different numbers of Vol. VI. Single volumes 75
+cents.
+
+                        WILLARD N. CLUTE & CO.,
+                              Joliet, Ill.
+
+
+                           SOME SPECIAL OFFERS
+
+  THIS MAGAZINE ONE YEAR
+  With any back volume later than Vol. 9                          $1.25
+  With any two back volumes later than Vol. 9                      1.60
+  With set of the Fern Bulletin (Vols. 7-18)                       8.00
+  With the New Gray’s Manual ($2.50)                               3.00
+  With a Solid Steel Trowel, 8-in. blade, (40c)                    1.00
+  With any Book or Magazine for 50c additional.
+
+  N. B.—Above prices are for subscriptions strictly in advance. Personal
+  checks will not be accepted unless cost of collection is added.
+
+                         Address all orders to
+                         WILLARD N. CLUTE & CO.
+                            JOLIET, ILLINOIS
+
+    [Illustration: GYMNOGRAMMA LANCEOLATA]
+
+
+
+
+                                CONTENTS
+
+
+  The Fern Flora of Illinois                                           32
+      Ophioglossaceae                                                  35
+      Osmundaceae                                                      35
+      Polypodiaceae                                                    36
+      Salviniaceae                                                     40
+      Equisetaceae                                                     40
+      Lycopodiaceae                                                    41
+      Salaginellaceae                                                  41
+      Isoetaceae                                                       42
+  A Problematical Fern (Gymnogramma lanceolata)                        42
+  The Tall Spleenworts                                                 45
+  Further Notes on Variation in Botrychium Ramosum                     47
+  Rare Forms of Fernworts—XXII                                         48
+      Still Another Christmas Fern                                     48
+      Polystichum acrostichoides f. Gravesii                           49
+  Notes on Various Ferns                                               51
+  Schizaea Pusilla at Home                                             53
+  Pteridographia                                                       55
+  Index to Recent Literature                                           60
+  Editorial                                                            61
+  Book Notes                                                           62
+
+                                 THE FERN BULLETIN
+    Vol. XX                      APRIL, 1912                        No. 2
+
+
+
+
+                      THE FERN FLORA OF ILLINOIS.
+
+
+                             By E. J. Hill.
+
+The state of Illinois has an area of about 55,000 square miles. It lies
+between the parallels 37° and 42° 30′, thus giving a length of 5½° or
+about 380 miles. This north and south extension produces a milder
+climate in the southern part, but no fern of essentially southern
+distribution comes in except _Polypodium polypodioides_, though the two
+quill-worts of the state are perhaps better placed under this head also.
+It is the lowest of the north-central states in average altitude, the
+mean above sea level being about 600 feet, varying from 300 feet at the
+junction of the Ohio and Mississippi rivers to 1250 feet at the
+Wisconsin line in the extreme northwest part. As there is nothing in
+these extremes of elevation to effect material changes of temperature
+due to altitude, its floristic features are not much modified in respect
+of this. Anything of this character must be ascribed to local
+conditions, not general causes. Another factor that affects its
+floristic features is the dominance of prairie within its boundary, the
+forests and woodlands, sometimes very narrow strips, chiefly bordering
+its streams and lakes. Since lands covered with grass are not adapted to
+the growth of ferns, and consequently are limited in species, their
+number and variety must be much restricted for this reason. This must
+have been the case in the primitive condition of the prairies before
+they were so generally taken up for cultivation. The loss in the
+original fern-flora is slight in this regard when compared with that of
+flowering plants. As nearly all of the state is in the region of the
+glacial drift, the soil is influenced by this condition also. The
+ravines cut in the drift and in the underlying rock where it is reached,
+with their varying degrees of moisture and shade, show the greatest
+variety in fern-life, though a greater abundance of certain kinds may be
+found in woods and swamps. The prevailing rocks are limestone, but
+sandstones occur in some localities, especially along the Illinois and
+Rock rivers. These in some parts of the state, particularly in the coal
+measures, the area of which is large, may be interstratified with shales
+and slate. These rocks and the soils resulting from their disintegration
+and decomposition, taken in connection with those of the glacial drift,
+provide a fair range of edaphic conditions for the growth of ferns. It
+is evident that such as prefer a calcareous soil will be best
+represented, if any preference of this kind inheres in their nature.
+
+It will be seen from the list that not quite one half (56) of the
+Pteridophytes accorded specific rank in “Gray’s New Manual of Botany”
+(115) are reported from this state. The genera are represented in larger
+proportion, 23 of the 31 given, or if _Athyrium_ be separated, 24 of 32,
+or three-fourths of them. All the species of several of the smaller
+genera are found, up to three in the case of _Osmunda_, but all of none
+with species exceeding this number. The genus most fully represented is
+_Equisetum_, eight of the ten, or nine of eleven when _E. robustum_ is
+given specific rank. To these must be added _E. Ferrissii_, not in the
+Manual.
+
+Reliable data for the distribution of the ferns of the state are not
+very full. It is hoped that they may be made more complete by the
+co-operation of those into whose hands the list may fall. Many additions
+to the number of species can hardly be expected. Doubtless the state has
+been quite well explored in this respect. I find only two to add to
+those published by Patterson in 1876, _Isoetes Butleri_, described in
+1878 from specimens found in Indian Territory (Oklahoma) but since found
+in this state, and _Equisetum Ferrissii_, a recent addition. The list is
+mainly a compilation made at the request of the editor of the _Fern
+Bulletin_. No special fitness for the task is claimed, since my personal
+knowledge of the region covered is almost wholly confined to five of the
+northeastern counties, Kankakee, Will, Cook, Dupage and Lake. Only
+casual trips of slight duration have been made to other places. The
+publication most relied on for the state at large is the “Catalogue of
+the Phaenogamous and vascular cryptogamous plants of Illinois,” H. N.
+Patterson, Oquauka, Ill., 1876. His catalogue of plants growing in the
+immediate vicinity of Oquauka has also been used. Friedrich Brendel’s
+“Flora Peoriana, Budapest, 1882,” (the German edition, but since given
+in English, I believe) has furnished some definite information for a
+district around the city of Peoria. The floras of H. H. Babcock and of
+Higley and Raddin for Chicago and vicinity have likewise been consulted,
+but as they respect territory mainly familiar to the writer, could be
+cited but little.
+
+As explanatory of the plan followed I may state that I have first
+mentioned the localities or stations with which I am personally
+acquainted, and from which examples are in my herbarium unless very
+common throughout. Citations from Patterson’s catalogue for the state at
+large are entered in quotation marks followed by (P.). Where Peoria is
+given the authority is Brendel, where Oquauka, Patterson. A few have
+been furnished by V. H. Chase, who collected in Stark county and
+vicinity, and by Prof. Atwell of the Northwestern University, from data
+in the herbarium of the University.
+
+
+                            OPHIOGLOSSACEAE.
+
+Ophioglossum vulgatum (L.) “Wabash county, a single plant.” _Schneck._
+      (P.) Probably elsewhere, but easily overlooked.
+
+Botrychium obliquum (Muhl.) In open woods, Cook Co., rare. “S. Illinois.
+      _Vasey_, _Schneck_.” (P.) Peoria Co., _V. H. Chase_. Starved Rock.
+      _J. H. Ferriss._
+
+Botrychium obliquum dissectum. (Spreng.) Peoria Co., _V. H. Chase_.
+
+Botrychium virginianum. (L.) Common in rich woods in the northeastern
+      part of the state, and probably throughout. It often occurs in
+      colonies, sometimes of a dozen or more plants. In woods along Lake
+      Michigan it readies a height of two feet.
+
+
+                              OSMUNDACEAE.
+
+Osmunda cinnamomea. (L.) Abundant in swampy areas in the northeastern
+      counties, especially in peaty ground near Lake Michigan within the
+      limits of the ancient glacial Lake Chicago. Swampy areas in sand
+      barrens west of Kankakee, “Menard county. _Hall._” (P.) Starved
+      Rock. _Clute._
+
+Osmunda Claytoniana (L.) Frequent in swamps and wet woods from Kankakee
+      county north in the eastern part of the state. Peoria, _Brendel_.
+      Henderson Co., _Patterson_. “Moist ravines, common.” says
+      Patterson for the state at large.
+
+Osmunda regalis (L.) Has a range similar to the last and is quite
+      frequent northeast in swamps and wet woods. Peoria, _Brendel_.
+      Mason county, _Bebb_. Infrequent says Patterson for the state as a
+      whole.
+
+
+                             POLYPODIACEAE.
+
+Adiantum pedatum (L.) Common throughout the state in rich woods.
+
+Polypodium vulgare (L.) On cliffs of sandstone, La Salle and Ogle
+      counties. “Common in Jackson and Union, _French_, _Forbes_.” (P.)
+
+Polypodium polypodioides (L.) Common throughout the state in rich woods.
+
+Pteris aquilina (L.) Copses and borders of dry woods. Frequent, or
+      abundant in localities northeast. Starved Rock, La Salle county,
+      Peoria, _Brendel_, Henderson, _Patterson_, Shelby, _Mary Evertz_.
+      “Common.” for the state. (P.) Rare in Will county in the prairie
+      region. _Clute._
+
+Cheilanthes lanosa (Michx.) “Rocks, St. Clair county, _Brendel_, and
+      southward.” (P.)
+
+Cheilanthes Feei (Moore.) Limestone cliffs by Mississippi river, Carroll
+      county, “near Galena, _Brendel_; Pike county, _Mead_; Jackson,
+      _French_.” (P.)
+
+Pellaea atropurpurea (L.) Frequent on cliffs of limestone along the
+      Desplaines river and its tributaries from Sag Bridge, Cook county,
+      to Joliet, Will county, and in Kankakee and Carroll counties.
+      Scarce on cliffs of sandstone, Oregon, Ogle county. Henderson
+      county, _Patterson_; Kane county, _W. J. Minium_; Wedron, La Salle
+      county, _Ferriss_. Reported for the state as general but
+      “infrequent” in Patterson’s catalogue.
+
+Pellaea gracilis (Michx.) Rare in thin soil in shelves of shaded and
+      usually moist calcareous rocks. Sag Bridge and Lemont, Cook
+      county, and Bounbonnais, Kankakee county. On moist sandstone
+      rocks, Liberty Hill, Oregon, Ogle county; limestone, Aurora, Kane
+      county; sandstone, Sheridan, La Salle county, _Ferriss_.
+
+Asplenium angustifolium (Michx.) Henderson. _Patterson_, Peoria,
+      _Brendel_ “Rich woods, scarce for the state.” (P.) Joliet rare,
+      Starved Rock more common. _Ferriss._
+
+Asplenium pinnatifidum (Nutt.) “On rocks, Jackson and Union counties,
+      _French_; Pope, _Schneck_.” (P.)
+
+Asplenium platyneuron (L.) “Open rocky woods, scarce.” (P.)
+
+Asplenium ebenoides (R. R. Scott.) Reported from Jackson county, Ill.,
+      but without further reference in _Fern Bulletin_, vol. V., p. 13.
+
+Asplenium Trichomanes (L.) “On shaded rocks, Jackson and Union counties,
+      _French_; Wabash, _Schneck_.” (P.) Southern Illinois. _Vasey._
+      Starved Rock, two plants. _Ferriss._
+
+Athyrium filix-foemina (L.) Frequent in rich, moist woods in Cook and
+      adjoining counties, as well as throughout the state as given by
+      _Patterson_, Peoria, _Brendel_; Jackson, _Saml. Bartley_;
+      Henderson, _Patterson_; Ravinia, Willow Springs, Cook county,
+      _Prince_.
+
+Athyrium thelypteroides (Michx.) “Near Glencoe, Cook county.” _Higley_
+      _Raddin_; “Peoria and Fulton counties, _Brendel_ and _Wolff_;
+      Wabash, _Schneck_.” (P.) Joliet, rare; Starved Rock abundant,
+      _Ferriss_.
+
+Camptosorus rhyzophyllus (L.) On outcrops of limestone in the Desplaines
+      valley in Cook and Will counties from Sag Bridge to Joliet.
+      Abundant at Dellwood Park and in one locality at Sag Bridge,
+      infrequent elsewhere. “Shaded rocks throughout but scarce.” (P.)
+      Jo Daviess county, _Pepoon_.
+
+Phegopteris hexagonoptera (Michx.) “Rich open woods and shaded ravines,
+      chiefly in the northern portion of Cook county; infrequent.”
+      _Higley_ and _Raddin_ (1891.) Peoria, _Brendel_; Henderson,
+      _Patterson_; Jackson, _Bartley_; Joliet and Starved Rock,
+      _Ferriss_. Patterson reports “frequent” throughout.
+
+Phegopteris polypodioides (Fée.) Starved Rock, La Salle county, “Menard
+      county, _Hall_.” (P.)
+
+Nephrodium noveboracense (L.) “Elgin, Kane county, _Vasey_; Wabash,
+      _Schneck_, Swamps, scarce.” (P.)
+
+Nephrodium Thelypteris (L.) Frequent or often abundant in swampy, wooded
+      ground or open marshes, in Cook, Lake, Dupage, Will and Kankakee
+      counties, Peoria, _Brandel_; Starved Rock, _Clute_. Frequent
+      throughout the state according to Patterson.
+
+Nephrodium cristatum (Michx.) Starved Rock, rare, _Ferriss_.
+
+Nephrodium Goldieanum (Hook.) “Rich Woods, Peoria and Fulton counties,
+      _Brendel_, _Wolff_; Makanda, Jackson county, _Forbes_,” (P.) Will
+      county, La Salle county, _Ferriss_.
+
+Nephrodium marginale (L.) Rocky bluffs, Starved Rock, La Salle county,
+      Southern Illinois, _Vasey_. “Scarce” for the state. (P.)
+
+Nephrodium spinulosum intermedium (Muhl.) Frequent in rich woods in the
+      northeastern counties, Starved Rock, _Clute_. Patterson says
+      “infrequent” for the state.
+
+Polystichum acrostichoides (Michx.) Will county, “north part of Cook
+      county,” _Higley_ and _Raddin_; Henderson, _Patterson_; Peoria,
+      _Brendel_; Jackson, _Bartley_. For the state, “infrequent.” (P.)
+      The variety _incisum_ is occasionally reported.
+
+Cystopteris bulbifera (L.) Frequent on shelves and in crevices of
+      limestone cliffs and shady ravines in the Desplaines valley in
+      Cook and Will counties, and in Kankakee county, Henderson,
+      _Patterson_, Peoria, _Brendel_; Starved Rock, abundant, _Clute_.
+      Patterson reports for the state, “shaded rocks, frequent.”
+
+Cystopteris fragilis (L.) Rather frequent in rich woods and occasionally
+      on rocks in Cook, Lake, Dupage, Will and Kankakee counties;
+      Henderson, _Patterson_; Peoria, _Brendel_; Jackson, _Bartley_.
+      “Common” for the state. (P.) Very variable in its forms.
+
+Woodsia obtusa (Spreng.) Scarce on limestone rocks at Lemont, Cook
+      county, abundant on sandstone at Oregon, Ogle county, “Marion
+      county, _Bebb_; Wabash, _Schneck_; and southward.” (P.) Joliet,
+      Will county, _Ferriss_.
+
+Woodsia ilvensis (L.) “On sandstone cliffs near Oregon, Ogle county,
+      _Bebb_.” (P.)
+
+Onoclea sensibilis (L.) Common in wet woods and swamps in the
+      northeastern counties. Peoria, _Brendel_; Jackson, _Bartley_. For
+      the state “common.” (P.)
+
+Onoclea struthiopteris (L.) Wet shades, Starved Rock, La Salle county,
+      Henderson, _Patterson_; Peoria, _Brendel_; Fulton, _Wolff_. For
+      the state “infrequent.” (P.)
+
+Dicksonia punctilobula (Michx.) “Wabash county, _Schneck_.” (P.)
+
+
+                             SALVINIACEAE.
+
+Azolla caroliniana (Willd.) “Ponds from Henderson and Peoria counties
+      southward. Infrequent.” (P.) “Since 1857 not found again in the
+      region of our local flora.” _Brendel_ in Flora Peoriana. “In a
+      pond near South Chicago, 1886. So far as known this is the only
+      locality where this species has been found within our limits.”
+      _Higley_ and _Raddin_.
+
+
+                             EQUISETACEAE.
+
+Equisetum arvense (L.) Common from Kankakee county north. Reported by
+      Patterson as common throughout the state. Though usually growing
+      in moist sand or gravel, it is often found in the Chicago region
+      in masses along dry railway embankments.
+
+Equisetum palustre (L.) “Wet places. Peoria county, _Wolff_, _Brendel_.”
+      (P.)
+
+Equisetum fluviatile (L.) In shallow water or very wet ground. Quite
+      frequent about Chicago. “Cass county, _Mead_; Peoria, _Brendel_;
+      McHenry. _Vasey_. Scarce.” (P.) Joliet, common, _Ferriss_.
+
+Equisetum laevigatum (A. Br.) Cook and Kankakee counties. “In dry or
+      moist clay or sand from Henderson and Peoria counties southward.”
+      (P.) In the Chicago region generally in moist sands; Hancock
+      county, _Mead_.
+
+Equisetum hyemale (L.) Moist places. Cook, Will and Lake counties.
+      Frequent, as well as throughout the state according to Patterson.
+
+Equisetum Ferrissii (Clute.) Moist banks, Will county.
+
+Equisetum robustum (A. Br.) On moist or wet banks of streams. Thornton
+      and La Grange, Cook county. “River banks from Peoria county
+      southward.” (P.)
+
+Equisetum variegatum (Schleich.) In clayey ravines at Lake Forest and in
+      wet sands at Waukegan, Lake county, Peoria, _Brendel_. Var.
+      _Jesupi_, A. A. Eaton, and var. _Nelsoni_, A. A. Eaton, are
+      credited to Illinois in Gray’s New Manual of Botany. The latter
+      variety occurs in Lake county, Ind., bordering Illinois, and is
+      likely to be found in the neighboring parts of this state, but
+      those from Lake county, Ill., agree better with the typical form.
+
+Equisetum scirpoides (Michx.) Moist shaded ravines, Lake Bluff, Lake
+      county. Reported by _Cowles_ at Lake Forest. “Ringwood, McHenry
+      county, _Vasey_.” (P.)
+
+
+                             LYCOPODIACEAE.
+
+Lycopodium inundatum (L.) “Moist sands, south Evanston, Cook county.”
+      _Higley_ and _Raddin_.
+
+Lycopodium lucidulum (Michx.) “Moist woods, Evanston, Cook county,
+      _Vasey_; Ogle, _Bebb_.” (P.)
+
+Lycopodium selago (L.) “Collected by J. W. Powell near Ottawa, _Vasey_.”
+      (P.)
+
+
+                            SALAGINELLACEAE.
+
+Selaginella rupestris (L.) Dry sands and sandstone rocks, La Salle and
+      Ogle counties. “Dry rocks and barrens, Henderson county; Ogle.
+      _Bebb_, Rare, or overlooked.” (P.)
+
+Selaginella apus (L.) Low sandy, peaty, or springy ground, Kankakee,
+      Cook, Lake and Will counties. Peoria, _Brandel_; Lawns in Joliet,
+      _Miss L. M. Hird_. “Low sandy places,” says Patterson, as if
+      throughout the state.
+
+
+                              ISOETACEAE.
+
+Isoetes melanopoda (J. Gay.) “Muddy borders of a pond near Hyde Park
+      water-works, 1885. Wet prairies near Grand Crossing, 1886-87.”
+      _Higley_ and _Raddin_. These stations in Cook county are doubtless
+      destroyed now. Stark county, _V. H. Chase_. “Menard, _Hall_;
+      Fulton, _Wolff_; McHenry, _Vasey_.” (P.)
+
+Isoetes Butleri (Engelm.) “Moist hillsides and shallow depressions,
+      Illinois and Kansas to Tennessee and Oklahoma.” Gray’s New Manual
+      of Botany.
+
+
+
+
+                         A PROBLEMATICAL FERN.
+                      (_Gymnogramma lanceolata._)
+
+
+                          By Willard N. Clute.
+
+In the identification of fern species one occasionally comes upon two
+forms so nearly alike that it requires very careful study to decide
+whether they are two different species or merely two forms of a single
+variable species, but it is rare that one finds a fern that can as well
+be placed in one genus as another, and still more rare when the species
+possesses characters so like those of ferns in other groups that it may
+be moved from one tribe to another without violating any of the
+botanical properties. The fern chosen for illustration here is one of
+this latter character. It has been passed back and forth between various
+genera in different tribes, seldom resting long in one place, until it
+is a very problematical species indeed.
+
+In outline and manner of growth it possesses no especial peculiarities.
+The lanceolate leaves might fit any of a dozen or more species that
+might be mistaken for it if the fruit dots or sori were absent.
+_Vittaria_, _Taemitis_, _Antrophyum_, _Polypodium_, _Asplenium_,
+_Acrostichum_ and many other genera have species with leaf outlines that
+almost exactly match it, but a glance at the fruiting fronds, at once
+excludes many of these genera as possible harbors for the species and at
+the same time increases the difficulties of finally placing it. The sori
+are apparently linear and _Scolopendrium_ or _Asplenium_ comes to mind,
+but there is no indusium and so the relationship is thrown into that
+group of ferns clustering about such forms as _Gymnogramma_.
+
+In fact, our fern was for a long time known as _Gymnogramma lanceolata_
+and owing to this fact I have selected this to stand as the name of the
+plant. A glance at the illustration, however, will disclose a frond not
+at all like the conventional _Gymnogramma_ frond, but it is as much like
+a _Gymnogramma_ as it is like the family to which the plant is now
+assigned. Curious as it may seem this plant with elongated sori oblique
+to the midrib is now regarded as a _Polypodium_! Before its settling
+down in this genus, it had been placed in _Antrophyum_, _Grammitis_,
+_Loxogramme_ and _Selliguea_ as well as _Gymnogramma_. This is by no
+means due to the variable nature of the fern. Through all these
+vicissitudes it has remained unchanged. The fluctuations from one genus
+to another even from one tribe to a different one, have been due to the
+varying opinions of mere man and his efforts to fit the fern to a set of
+descriptions of his own making. Circumstances such as these are quite
+sufficient to justify the refusal to accept off-hand the results of
+every “revision” which ambitious systematists see fit to inflict upon
+us.
+
+While reposing in the genus _Gymnogramma_, the fern was well-known to be
+somewhat unorthodox. In every large assemblage of species there are, in
+addition to those which are typical, certain others that diverge
+somewhat, but not enough to form a separate genus. Thus our plant was
+placed in the section _Selliguea_. Sometimes, indeed, _Selliguea_ was
+isolated as a separate genus, but usually accompanied by the statement
+that if it were not for the shape of the sorus it would make a good
+addition to the section _Phymatodes_ of _Polypodium_. Here, at least, is
+where it has landed, the elongated sori being winked at, possibly, or
+perhaps the species makers are willing to assume each so-called sorus to
+be a series of _Polypodium_ sori. In this age, however, there are those
+who deny to the species in the group _Phymatodes_ the right to be
+included in _Polypodium_ and in certain books our species appears as
+_Phymatodes loxogramma_. Just how this _loxogramme_ came to supplant
+_lanceolata_ is another story, not to be detailed here. Suffice to say
+that the new name was picked up during one of the fern’s numerous
+transfers.
+
+As to _Phymatodes_, it is likely that the species in this group are
+distinct enough to form a genus by themselves but it would be a rash
+student to encourage such a departure, for once started we should soon
+see all the large genera cut up into lesser groups and then what
+delightful times the name-tinker would have!
+
+By what ever name called, the species manages to thrive over a wide
+stretch of country in the Eastern Hemisphere, being found from Japan and
+China to the Himalayas, Ceylon and the Guinea Coast and represented in
+many of the islands of the Pacific including Fiji and Samoa. The
+specimen from which the illustration was made was collected by K. Miyake
+near Kyoto, Japan where it is reported “not so common.”
+
+
+
+
+                         THE TALL SPLEENWORTS.
+
+
+                          By Adella Prescott.
+
+Some years ago when for me there were but two species of ferns, those
+that were finely cut and those that were not—and maidenhair—I supposed
+of course that the narrow leaved spleenwort (_Asplenium angustifolium_)
+was simply a hardy sword fern and that both were varieties of the
+Christmas fern! But when I began to read the fascinating pages of Clute
+and Parsons and Waters I found, even in the early summer, that there
+were differences and by the time the sori appeared I was wise enough to
+recognize the characteristic mark of the spleenworts. Even then I
+thought it but a common fern for in the woods with which I was most
+familiar it grew plentifully and it was not till sometime later that I
+learned that it is at least rare enough to insure for itself a welcome
+whenever found.
+
+It is an extremely local plant and may be looked for perhaps for years
+before being found though it has a wide distribution and is apt to be
+plentiful where it grows at all. It prefers rather moist soil and seems
+to like Goldie’s fern for a neighbor as I have often found them in close
+proximity.
+
+The fronds grow in tufts from a creeping rootstock and are said to reach
+a height of four feet but all that I have seen were shorter by at least
+a foot. The blades are simply pinnate with many long, narrow pinnules
+tapering to slender tips. The fertile fronds are taller with the
+pinnules much narrower and the linear sori borne in two rows along the
+midrib of each pinnule. The fronds are delicate in texture and are
+easily destroyed by summer storms, yet the plant is able to adapt itself
+in some degree to its environment for a plant that I have in a border
+where it is exposed to cold winds has become much more rugged both in
+appearance and in fact. It is a charming addition to the fern garden
+making a pleasing foil to _Nephrodium spinulosum_, _Dicksonia_ and other
+finely cut varieties.
+
+I think it is a pity that the silvery spleenwort has no common name but
+one that is suggestive of a varied assortment of “blues,” and that does
+not certainly belong to it at that. But when we consider the discomforts
+suggested by the word “spleeny” we may think after all that this plain
+unassuming plant would prefer to be classed among the spleenworts with
+their fabled powers of healing rather than among the gentle folk of the
+_Athyriums_ where perhaps it rightly belongs.
+
+The silvery spleenwort, _Asplenium thelypteroides_, or _Athyrium
+thelypteroides_ as some prefer to call it, has few characteristics that
+would make it noticeable among other species. It is of an ordinary size,
+from two to three feet in height, and the fronds are produced singly
+from a stout creeping rootstock but they grow so close together as to
+suggest a circular crown. They are once pinnate with deeply lobed
+pinnules and have rather a soft velvety texture though quite thin and
+delicate. The blade is oblong, tapering both ways from the middle and
+there is little difference between the fertile and sterile fronds.
+
+The sori are borne in regular double rows on the pinnules and while in
+general they are like those of the spleenwort yet they are frequently
+curved after the fashion of the lady fern, making a puzzling question on
+which the botanical doctors fail to agree.
+
+This species is fairly common over a wide area and while not possessing
+any striking beauty is interesting and attractive to the true lover of
+ferns.
+
+                                                   _New Hartford, N. Y._
+
+
+
+
+           FURTHER NOTES ON VARIATION IN BOTRYCHIUM RAMOSUM.
+
+
+                            By Raynal Dodge.
+
+On June 2nd of the present year I again visited the Botrychium stations
+at Horse Hill, Kensington, N. H., and at Newfound Hill in Hampton Falls.
+A description of these was given in _The Fern Bulletin_ April 1910. I
+found that a great change had taken place since my last visit in 1907.
+The young trees had grown wonderfully and shaded the station, the farm
+house had been abandoned, the hens had disappeared, and _Botrychium
+ramosum_ had again taken its place at the foot of the hill. But instead
+of the many thousands which formerly grew there, I only succeeded in
+finding about forty plants, some of them however, quite robust and well
+grown. On the same day, in company with a friend, I made a thorough
+search for _Botrychium simplex_ at Newfound Hill but failed to find a
+single plant.
+
+It appears that all the forms in the genus _Botrychium_ increase in
+numbers very slowly and that the individual plants require many years to
+attain their full development, but if the station for _Botrychium
+ramosum_ on Horse Hill escapes damage by fire or marauding hens I think
+that within twenty years someone perhaps now younger than I, may find a
+large colony of _Botrychium simplex_ at the old station on Newfound
+Hill. Several of my young friends have undertaken if possible to make a
+search.
+
+Perhaps some of the readers of _The Fern Bulletin_ know of localities
+where _Botrychium ramosum_ and _B. simplex_ are to be found growing near
+each other. If any such are known it seems that further investigations
+relating to this subject might be made. Or perhaps it would be
+enlightening if spores of _B. ramosum_ in sufficient quantity were to be
+sown on some dry hillside that was easily accessible to the
+experimenter. Immediate results however should not be expected as these
+_Botrychiums_ move very slowly, according to some experimenters
+requiring several years before germination of the spores. Moreover in
+the present case the continued growth of the young plants would be very
+much dependent on the amount of moisture they might receive as is
+evidenced by the total destruction of the plants at Newfound Hill by a
+very severe drouth.
+
+Since speaking on this subject before the members of the American Fern
+Society I have been informed of two other instances besides those at
+that time mentioned where plants of _B. simplex_ once found had
+disappeared which seems further evidence that the form _simplex_ in
+_Botrychium_ described by Hitchcock as growing in dry hills is not
+self-perpetuating.
+
+                                                    _Newburyport, Mass._
+
+[To the instances of the disappearance of _B. simplex_, may now be added
+the disappearance of the colony found at Glen Park, Indiana in 1910. In
+that year there was perhaps a hundred plants found. Every year since,
+members of the Joliet Botanical Club and others have searched for them
+but not a single specimen has been discovered. Some _Botrychiums_ have
+the habit of resting for a year or more, but it hardly seems likely that
+they would rest for three summers in succession.—_Ed._]
+
+
+
+
+                     RARE FORMS OF FERNWORTS—XXII.
+
+
+                     Still Another Christmas Fern.
+
+In 1893, the late James A. Graves found a curious form of Christmas fern
+(_Polystichum acrostichoides_) in the vicinity of Susquehanna, Pa., and
+removed it to his garden where it continued to put forth its abnormal
+fronds for many years and may still be alive for anything the writer
+knows to the contrary. During the period in which Mr. Graves gave his
+principal attention to the study of ferns he was often advised to
+describe his abnormal specimen, but he was always so much engrossed in
+the study and cultivation of the living ferns that he never found time
+to write a formal scientific description of the plant, though he had
+settled on a name for it. The form undoubtedly deserves a distinctive
+name and since the discoverer is no longer with us, it seems very
+fitting that the form be named for him. I therefore offer the following
+description of
+
+
+                Polystichum acrostichoides f. Gravesii.
+
+Plant similar to the type but with the pinnae ending in truncate tips
+from which the midveins project as spinelike bristles. Type in the
+herbarium of Willard N. Clute. Cotype in the herbarium of Alfred
+Twining, Scranton, Pa.
+
+Although the description is drawn from a single plant it is likely that
+a search in the regions where the Christmas fern is abundant would
+reveal other specimens with the same peculiarity. Indeed, H. G. Rugg in
+a paper before the Vermont Botanical Club, last winter, described a
+plant that, to judge from his remarks must be essentially the same
+thing. He says: “For several years I have had a peculiar form of this
+fern growing in my garden. It is interesting because of the truncate
+form of the pinnae and the multifid form of the tip of the frond. The
+sterile fronds are usually like those of the type plant. This fern I
+transplanted into my garden several years ago and ever since then it has
+continued to bear these peculiar fronds. The late Mr. B. D. Gilbert was
+interested in the plant and asked permission to describe it in the _Fern
+Bulletin_ but illness and finally death prevented.” Apparently the only
+difference between the Vermont and Pennsylvania plants is the cristate
+apex, but as forking tips are to be expected in any species this feature
+is not extraordinary.
+
+Mr. Graves usually spoke of his specimen as the variety _truncatum_.
+This is the name it bears in some herbaria and is the one it undoubtedly
+would have borne in literature had he lived to describe it. Those who
+were fortunate enough to have known Mr. Graves personally, however, will
+be pleased to see his name associated with one of the forms of that
+division of the plant world which he studied so long and so assiduously.
+It need hardly be said for the readers of this magazine that Mr. Graves
+was one of the founders of the Linnaean Fern Chapter the name by which
+the American Fern Society was originally known, was elected the first
+treasurer and held that office through half the lifetime of the society,
+was one time president of the same society and for a long time one of
+the most resourceful of its Advisory Council members.
+
+    [Illustration: Outline of frond]
+
+The drawing herewith was made from the middle pinnae of a frond kindly
+supplied by Mr. Alfred Twining, of Scranton, Pa. It is a fair average of
+the form and though without much beauty of outline is still of interest
+for the form in which nature has cast it.
+
+
+
+
+                        NOTES ON VARIOUS FERNS.
+
+
+                           By S. Fred Prince.
+
+I was very much interested in Mr. Hill’s article on the cliff brakes in
+the January Bulletin. I lived at Madison, Wisconsin, from 1874 to 1878,
+and have gathered _Pellaea atropurpurea_ many times from the sandstone
+cliffs, not only on Lake Mendota, but also Lake Monona and outcrops in
+other parts of the “Four-lake County.”
+
+I found it growing on both the Potsdam and the Madison sandstones. On
+the former it was only in small clumps, or isolated plants, much more
+sparse in growth than when on the latter, though I never found it
+anywhere in such dense, tangled masses as it forms in the clefts of the
+limestone rocks of the southwest Ozarks.
+
+I have also found _Pellaea atropurpurea_ growing thinly, on a dark red
+sandstone, at Paris Springs, Missouri, not far from Springfield.
+
+I would like to add to the localities of _Polypodium vulgare_ in
+Michigan. I found it, in the summer of 1910, growing in dense mats on
+sand dunes, south of Macatawa, Michigan. The plants were in a woodland
+composed principally of hemlock, with oak and a general mixture of elm,
+maple, hickory, etc. When you lifted a mat of the fern, the bare sand
+was left exposed. I thought the conditions rather peculiar.
+
+I found many ferns growing on these wooded sand hills where, at the
+most, there was but half an inch of soil on top of the white sand. The
+list includes:
+
+_Adiantum pedatum_; _Pteris aquilina_; _Asplenium filix-foemina_, in
+marshy places between the dunes; _Polystichum acrostichoides_, very
+sparingly; _Nephrodium thelypteris_, very luxuriant, like the lady fern,
+in marshy ground; _Nephrodium marginale_, the most common fern;
+_Nephrodium cristatum_; _Nephrodium spinulosum_, wherever there was a
+rotting chunk of wood; _Onoclea sensibilis_, and _Onoclea
+struthiopteris_, both very rank; _Osmunda regalis_ and _Osmunda
+cinnamomea_, these last four in marshy spots; and _Botrychium
+virginianum_, on the sides of the dunes.
+
+I have been observing the habits of _Onoclea sensibilis_ for many years,
+even raising plants from the spores to five years old; caring for other
+plants for years, changing conditions, and varying my experiments, until
+I have come to the following conclusions:
+
+When the soil is constantly and evenly moist and unusually rich, and the
+plant is constantly shaded, it tends to produce its fertile fronds
+flattened out like the sterile, with all stages to those only partly
+rolled up. These _unrolled_ fertile fronds do not differ from the
+_rolled up_ ones, on the same plant, except in this one particular.
+
+When a heavy screen was changed so that the plants would be in the full
+light and sun, the fertile fronds produced the rest of the season were
+as tightly rolled as usual, and it took two years of shading before
+these plants produced open or unrolled fertile fronds again. Varying the
+other conditions—moisture and nutriment, had similar results, but less
+marked.
+
+                                                       _Champaign, Ill._
+
+
+
+
+                       SCHIZAEA PUSILLA AT HOME.
+
+
+Anyone who has seen this odd fern growing in its native haunts will
+probably concur in the opinion held by some, that while it is looked
+upon as one of the rarest of ferns its small size and its habit of
+growing in the midst of other low plants have no doubt caused it to be
+passed over by collectors in many regions where it really exists. This
+should be an encouragement to collectors to keep the fern in mind in
+their field excursions with a view to adding new stations for it to
+those now known. The finding of a rare plant in a new locality is always
+a source of especial pleasure to the discoverer, aside from being an
+item of value to the botanist in general.
+
+_Schizaea pusilla_ was first collected early in this century at Quaker
+Bridge, N. J. about thirty-five miles east of Philadelphia. The spot is
+a desolate looking place in the wildest of the “pine barrens” where a
+branch of the Atsion river flows through marshy lowlands and cedar
+swamps. Here amid sedge grasses, mosses, _Lycopodiums_, _Droseras_ and
+wild cranberry vines the little treasure has been collected. But though
+I have hunted for it more than once my eyes have never been sharp enough
+to detect its fronds in this locality.
+
+In October of last year, however, a good friend guided me to another
+place in New Jersey where he knew it to be growing and there we found
+it. It was a small open spot in the pine barrens, low and damp. In the
+white sand grew patches of low grasses, mosses, _Lycopodium
+Carolinianum_, _L. inundatum_ and _Pyxidanthera barbata_, besides
+several small ericaceous plants and some larger shrubs, such as scrub
+oaks, sumacs etc. Close by was a little stream and just beyond that a
+bog. Although we knew that _Schizaea_ grew within a few feet of the path
+in which we stood, it required the closest kind of a search, with eyes
+at the level of our knees before a specimen was detected. The sterile
+fronds, curled like corkscrews, grew in little tufts and were more
+readily visible than the fertile spikes which were less numerous and
+together with the slender stipes were of a brown color hardly
+distinguishable from the capsules of the mosses and the maturing stems
+of the grasses which grew all about. Lying flat upon the earth with face
+within a few inches of the ground was found the most satisfactory plan
+of search. Down there all the individual plants looked bigger and a
+sidelong glance brought the fertile clusters more prominently into view.
+When the sight got accustomed to the miniature jungle, quite a number of
+specimens were found but the fern could hardly be said to be plentiful
+and all that we gathered were within a radius of a couple of yards.
+
+This seems, indeed to be one of the plants whose whereabouts are
+oftenest revealed by what we are wont to term a “happy accident” as for
+instance, when we are lying stretched on the ground, resting, or as we
+stoop, at lunch, to crack an egg on the toe of our shoe. I know of one
+excellent collector who spent a whole day looking for it diligently in
+what he thought to be a likely spot but without success when finally,
+just before the time for return came, as he was half crouching on the
+ground, scarcely thinking now of _Schizaea_, its fronds suddenly flashed
+upon his sight, right at his feet.
+
+The sterile fronds of _Schizaea pusilla_ are evergreen so the collector
+may perhaps best detect it in winter selecting days for his search when
+the ground is pretty clear of snow. The surrounding vegetation being at
+that time dead the little corkscrew-like fronds stand out more
+prominently. The fertile fronds die before winter sets in but their
+brown stalks frequently nevertheless remain standing long after.—_C. F.
+Saunders in Linnaean Fern Bulletin, Vol. 4._
+
+
+
+
+                            PTERIDOGRAPHIA.
+
+
+A New Fern Pest.—According to the _British Fern Gazette_ a new pest
+threatens the specimens of those who collect living plants. This is the
+larva of a small weevil which gets into the stipes of the ferns and
+burrowing downward into the heart of the rhizomes soon cause the death
+of the plant. The weevil is of Australian origin, probably introduced
+into Britain with imported plants. Its scientific cognomen is _Syagrius
+intrudens_. At first its depredations were confined to ferns under
+glass, but more recently it has taken to the ferns in the wild state.
+This, however, is not the only enemy of the ferns that British growers
+have to contend with. Another small beetle known as the vine weevil
+(_Otiorhyncus sulcatus_) is fond of the plants both in the adult and
+larval stages, but the newcomer has already developed a reputation for
+destructiveness that places it first as a fern pest.
+
+
+Walking Fern and Lime.—Nearly everybody who cultivates the walking fern
+(_Camptosorus rhizophyllus_), thinks it necessary to supply it with a
+quantity of old mortar, quick-lime or pieces of limestone under the
+impression that the fern cannot live, or at least cannot thrive without
+a considerable amount of calcium in the soil. As a matter of fact it has
+been reported on sandstone, shale, gneiss and granite and may possibly
+grow on others. Its noticed preference for limestone is apparently not
+due to its dependence on calcium but rather to the fact that it is more
+nearly adjusted to the plant covering of limestone rocks than it is to
+others. It will grow in any good garden soil, but in such situations it
+must be protected from its enemies, the ordinary weeds of cultivation,
+which otherwise would soon run it out. The same thing is true of many
+plants besides ferns. The cactus plant that cheerfully endures the
+intense insolation and frequent drouth of the sand barrens, succumbs
+very soon to the grass and weeds when planted in rich soil.
+
+
+Stipe or Stipes.—When it comes to the designation of the stalk of a fern
+leaf, there is a wide difference in the way British and Americans regard
+it. Americans invariably speak of a single stalk as a stipe and they may
+be somewhat astonished, upon referring to a dictionary, to find that
+while stipe is given as a legitimate word, it comes direct from the
+latin _Stipes_ which the Britons, with perhaps a more classical
+education, are accustomed to use. In America the plural of stipes is
+stipes or, rather, the plural of stipe is stipes; but in England the
+plural of both stipe and stipes is _stipites_. In certain uncultivated
+parts of our own country the singular form of the word species is given
+as specie; but when we smile at some countryman’s description of a
+specie of fern, our merriment may be somewhat tempered by the thought
+that we still say stipe instead of stipes. If we could only believe that
+we use stipe with full knowledge of its derivation, it would not seem so
+bad, but it is very evidently a case of plain ignorance.
+
+
+Apogamy in Pellaea.—Apogamy, or the production of a new sporophyte from
+the gametophyte without the union of egg and sperm, used to be
+considered a rather rare phenomenon, but as more study is given the
+matter, it begins to seem fairly common. Several years ago Woronin
+reported apogamy in _Pellaea flavens_, _P. niveus_ and _P. tenera_ and
+still more recently W. N. Steil of the University of Wisconsin reported
+the same condition in our native _Pellaea atropurpurea_. In Steil’s
+specimens the young sporophytes were borne on the prothallus lobes near
+the notch. The same investigator is now working on apogamy in other
+species. A note in a recent number of this magazine asked for spores of
+_Pellaea gracilis_ (_Cryptogramma Stelleri_) for this purpose.
+
+
+Lycopodium lucidulum porophylum.—In the _Ohio Naturalist_ for April
+Prof. J. H. Schaffner devotes several pages to a discussion of the
+specific distinctness of forms allied to _Lycopodium lucidulum_ and
+comes to the conclusion that _Lycopodium porophylum_ is a good species.
+If one is to judge by appearances alone, there can be no question as to
+_L. lucidulum_ being different from _L. porophylum_ but if the different
+appearances that plants put on under different conditions of warmth,
+light and moisture are to be considered then there are a number of fern
+species in this country in need of a name. Compare _Woodsia obtusa_
+grown on a sunny cliff with the same species grown on a moist one, or
+_Equisetum arvense_ in woods and on railway banks. Nobody at present can
+say positively whether the form called _porophyllum_ is a species or
+not. If it can be grown in moisture and shade while still retaining its
+characters, or if its spores will produce plants like the parent when
+sown in moist shades, then the case should be considered closed.
+Meanwhile, if one were to imagine a dry ground form of _L. lucidulum_
+what kind of a plant would he construct? Perhaps prostrate stem shorter;
+branches in a denser tuft, shorter; leaves less notched, smaller; whole
+plant yellower. Well, that is the description of _L. porophylum_!
+
+
+Affinities of Taenitis.—The genus _Taenitis_ is one that has always
+puzzled botanists. It was once placed in the tribe Grammitideae along
+with such genera as _Notholaena_, _Brainera_, _Meniscum_, _Vittaria_,
+_Hemionitis_ and _Drymoglossum_, and it has also been considered
+sufficiently distinct to stand as the type of a tribe named for it,
+while recently it has been considered as a member of the tribe
+_Polypodicae_. Now comes E. B. Copeland in the _Philippine Journal of
+Science_ and gives the genus another turn and this time places it in the
+Davallieae largely upon the relationship shown by the internal structure
+of the stem and the character of the scaly covering. It is likely that
+the new manipulator of the genus is as near right as anybody. The main
+thing is to discover what are the real indications of relationships.
+With some students it is venation, with others the shape and position of
+the indusium, with others the character of the vestiture and still
+others may have other rules by which to judge. When we agree upon the
+proper earmarks, anybody ought to be able to put the ferns in their
+proper groups.
+
+
+Sporophyll Zones.—The fact is well known that some of the club-mosses,
+notably the shining club moss (_Lycopodium lucidulum_) and the fir
+club-moss (_L. Selago_), bear their sporangia in bands or zones that
+alternate with regions on the stem in which there are no sporophylls,
+but it does not seem to be equally well recognized that the same
+phenomena are found pretty generally among the ferns. If one will
+examine the crowns of the cinnamon fern, it will be readily seen that
+sporophylls and vegetative leaves form alternating circles. Curiously
+enough, the fertile fronds, which appear at maturity within the circle
+of sterile leaves, really belong to the outer circle, as befits the
+group that is to develop first. The sensitive and ostrich ferns are
+other species in which the zones of fronds are very distinct. So
+pronounced is this, and so far has each kind developed before unfolding,
+that each is usually incapable of taking up the functions of the other
+in cases where the destruction of one kind makes such exchange necessary
+or desirable. From efforts on the part of the plant to supply vegetative
+tissue to leaves designed originally for spore-bearing, only, we owe the
+various “obtusilobata” forms occasionally reported. The differences in
+zonation here mentioned are most pronounced in ferns with dimorphic
+fronds, but evidences of the same thing, more or less distinct may be
+found even in those ferns that have the fertile and sterile fronds
+essentially alike in outline. As a usual thing, the spore-bearing leaves
+are produced after the vegetative leaves have unfolded and when we find
+a plant in full fruit in late summer, that lacked spores in spring, it
+is due to the developing of the fertile leaves later. This is especially
+true and most noticeable in ferns that produce their fronds in crowns,
+but even in those species with running rootstocks, we commonly find
+evidences of zonation. Following out the idea of zonation we find among
+many of the fern allies that not only are the sporophylls assembled in
+zones but the zones terminate the central axis or branch. Under such
+circumstances the shoot begins to take on many of the characteristics of
+the flower and if we allow the definition of a flower as a shoot beset
+with sporophylls, it really is a flower. In the plants in which the
+flower comes to its highest development this structure is essentially a
+group of two kinds of sporophylls set round with sterile leaves called
+petals and sepals. Did ferns, instead of selaginellas, produce two kinds
+of sporophylls, the whole fern plant with its crown of fronds, would be
+very like a flower.
+
+
+
+
+                      INDEX TO RECENT LITERATURE.
+
+
+Readers are requested to call our attention to any errors in, or
+omissions from, this list.
+
+Clute, W. N. _Nephrodium deltoideun._ illust. Fern Bulletin, Ja. 1912.
+
+Clute, W. N. _Rare Forms of Fernworts.—XXI. Another Form of the
+      Christmas Fern._ illust. Fern Bulletin, Ja. 1912.—_Polystichum
+      acrostichoides_ f. _lanceolatum_ described and illustrated.
+
+Darling, N. _Observations on some Lycopodiums of Hartland Vt._ illust.
+      American Fern Journal, Ap. 1912.
+
+Dodge, C. K. _The Fern-flora of Michigan._ Fern Bulletin, Ja.
+      1912.—Fifty-eight ferns and thirty-one fern allies listed with
+      notes.
+
+Cockayne, L. _Some Noteworthy New Zealand Ferns._ illust. Plant World,
+      Mr. 1912.
+
+Hill, E. J. _Additions to the Fern-flora of Indiana._ Fern Bulletin, Jl.
+      1912.—New stations for several species.
+
+Hill, E. J. _The Rock Relations of the Cliff Brakes._ Fern Bulletin Ja.
+      1912.
+
+Hopkins, L. S. _Lycopodium Selago from Ohio._ illust. American Fern
+      Journal, Ap. 1912.—A form of _L. lucidulum_ mistaken for the rarer
+      species.
+
+Prescott, A. _The Osmundas._ Fern Bulletin, Ja. 1912.
+
+Safford, W. E. _Notes of a Naturalist Afloat.—III_: illust. American
+      Fern Journal, Ap. 1912.—Occasional mention of common Ferns.
+
+Schaffner, J. H. _The North American Lycopods without Terminal Cones._
+      illust. Ohio Naturalist, Ap. 1912.—_Lycopodium porophylum_
+      regarded as of specific rank.
+
+Winslow, E. J. _Some Hybrid Ferns in Connecticut._ American Fern
+      Journal, Ap. 1912.
+
+
+
+
+                               EDITORIAL.
+
+
+The last number of this magazine—that for October 1912—will be a
+comprehensive index of the publication for the past ten years. This,
+with the index to the first ten volumes, will form an exceedingly
+valuable index to the fern literature of America, covering, as it does,
+the whole period of popular fern study. It begins some years before the
+appearance of any popular fern book and has either published entire all
+important articles issued since or given a summary of them. Mr. S. Fred
+Prince, long a member of the Fern Society is already at work on the
+index and we hope to issue it not later than the end of the year.
+
+                            * * * * * * * *
+
+Further information received from the purchaser of the complete set of
+this magazine recently sent to Germany, apprises us of the fact that the
+set is not to remain in Europe. It was purchased for a customer in South
+America (Argentine), therefore the set owned by M. C. Belhatte at Paris
+is the only one in Europe. The recent set is also the only complete set
+in South America, and there are not, so far as we are aware, complete
+sets in other parts of the Old World though the set at the Tokyo
+Botanical Garden ought to be nearly complete and the set owned by D.
+Leroy Topping at Manila lacks only two numbers.
+
+                            * * * * * * * *
+
+Next year it will be too late to get odd numbers to complete files that
+lack them. When this magazine goes out of business we shall retain only
+complete volumes. This is the time for all who need odd numbers to ask
+for them. We have recently advertised to send any back volume later than
+volume 9 for 50 cents and this offer will hold good until the end of the
+year. After that time, single volumes cannot be had unless we happen to
+have a surplus. We are willing to replace soiled, torn or missing
+numbers free if requested to do so at once, and the fact that odd
+volumes will soon be unobtainable should incline all whose sets are
+incomplete to add the missing volumes while they can.
+
+
+
+
+                              BOOK NOTES.
+
+
+In anticipation of the consolidation of this magazine with _The American
+Botanist_ at the end of the year, some very extensive improvements in
+the new magazine are to be made. Among the more important are a better
+grade of paper, the use of numerous illustrations, and the addition of
+enough pages to make it the largest magazine for the price in America.
+With the beginning of 1913 a department of ornamental gardening will be
+included in which the cultivation of our showy wild-flowers will receive
+adequate treatment. This magazine will continue the matter relative to
+ferns now appearing in _The Fern Bulletin_ and all manuscripts used will
+be paid for. No reader of Fern Bulletin should fail to subscribe for the
+new _American Botanist_ if they wish to keep abreast of the times in
+botany. Those who subscribe for 1913 before November 20th, will receive
+the November issue free.
+
+
+Messrs. Ginn & Co. have nearly ready for publication a book on Agronomy
+by the editor of _The Fern Bulletin_ which should be of interest to all
+who have anything to do with cultivating plants. Although the book is
+intended as a school book to be used in connection with gardening
+courses, the fact that it not only gives directions for planting and
+cultivating kitchen vegetables and flowering plants, but explains the
+principles upon which such directions hinge, will make it of much value
+to the gardener whether amateur or professional. The book, however, is
+not a mere gardening manual. It discusses soils and their origin, the
+fundamentals of landscape work and plant breeding, and the effects of
+heat, light and moisture upon plants in general. There will also be more
+than 200 illustrations.
+
+
+Ferns Weighing a Ton.—In the tropics ferns often attain the height of
+small trees, but their trunks are usually so slender that they never are
+of any great weight. For the heaviest trunks we must look among lowlier
+species, where the circumference of the short trunk in some cases is so
+great that immense weights are attained. In Australia and New Zealand
+there grows a relative of the common cinnamon fern named _Todaea
+barbata_ which quite takes the palm in this respect. The trunks are
+great rounded mosses five or six feet high and at least twenty feet in
+circumference, most of the upper surface being beset with living fronds.
+Specimens have been found with trunks that were estimated to weigh more
+than a ton and a half.
+
+
+
+
+                      All the American Fern Books
+
+
+  Ferns of Kentucky 12mo.                                 (out of print)
+  Ferns of North America 2 vols. 4to.                     (out of print)
+  Fern Collector’s Handbook 4to.                          (out of print)
+  Ferns in their Homes and Ours                           (out of print)
+  Our Ferns in Their Haunts 8vo.                                   $2.15
+  How to Know Ferns 12mo.                                           1.60
+  Fern Collector’s Guide 12mo.                                       .54
+  Who’s Who Among the Ferns 12mo.                                   1.05
+  How Ferns Grow 4to.                                               3.25
+  Ferns and How to Grow Them 12mo.                                  1.17
+  Fern Allies of N. Am. 8vo.                                        2.15
+  Our Native Ferns 12mo.                                            1.08
+  Ferns and Allies of New England 16mo.                              .50
+  New England Ferns and Allies 12mo.                                1.33
+  Ferns 4to.                                                        3.30
+  Ferns of the West 8vo. paper                                       .50
+  Ferns of Iowa 8vo. paper                                           .25
+  North American Pteridophytes paper                                 .25
+  How Ferns Grow 4to.                                               3.25
+  Ferns 4to.                                                        3.30
+  Fernwort Papers 12mo. paper                                        .25
+  Boston Meeting Paper 12mo. paper                                   .25
+  Index to Vols. 1-10 Fern Bulletin                                  .25
+  Ferns of Upper Susquehanna                                         .25
+  Mosses and Ferns 8vo. 1st Ed.                                     4.00
+
+Any of the above, to which a price is attached will be sent postpaid
+upon receipt of price.
+
+                                ADDRESS
+                         Willard N. Clute & Co.
+                              JOLIET, ILL.
+
+
+                                WHY OWN
+                 Webster’s New International Dictionary
+                          THE MERRIAM WEBSTER?
+
+  Because it is a NEW CREATION covering every field of the world’s
+  thought, action, and culture. _The only new_ unabridged dictionary in
+  many years.
+
+  Because it defines over _400,000 Words_; more than ever before
+  appeared between two covers. _2700 Pages. 6000 Illustrations._
+
+  Because it is the _only_ dictionary with the new divided page. A
+  “Stroke of Genius.”
+
+  Because it is an encyclopedia in a single volume.
+
+  Because it is commended by the Courts, the Schools, and the Press as
+  _the one supreme authority_.
+
+  Because he who knows _Wins Success_. Let us tell you about this new
+  work.
+
+              WRITE for specimens of the new divided page.
+          G. & C. MERRIAM CO., Publishers, Springfield, Mass.
+         Mention this paper, receive FREE a set of pocket maps.
+
+
+                         The American Botanist
+
+For the plant student, amateur or professional. Those who are not
+subscribers fail to realize the pleasure they are missing. Send for a
+sample and judge for yourself. Subscriptions 75 cents a year.
+
+                         Willard N. Clute & Co.
+                              Joliet, Ill.
+
+
+                             Reduced Prices
+                            _on Microscopes
+                         Lenses and Accessories
+                         Photographic Cameras_
+
+    [Illustration: Microscope]
+
+                      Send for my SPECIAL BULLETIN
+
+    Includes complete achromatic microscopes of high power at $4.50,
+                          $12.50 and upwards.
+
+                       _Excellent Field Glasses_
+
+                        “BEAST AND BIRD SPECIAL”
+  with large clearly defining lenses, in black sole leather case with
+                     strap, sent prepaid for $5.50.
+
+                             Edward Pennock
+                           3603 Woodland Ave
+                              PHILADELPHIA
+
+
+                            Important Notice
+
+The price of the current volume (1912) of _The Fern Bulletin_ has been
+advanced to $1.00. Only sufficient copies are being printed to supply
+subscribers and complete files. When ordered with any back number, this
+volume will be sent for 75 cents.
+                         Address all orders to
+                                WILLARD N. CLUTE & CO., Joliet, Illinois
+
+
+                              ANOTHER COPY
+
+We have obtained another copy of Williamson’s “Ferns of Kentucky” which
+we offer for $4.50 postpaid. This volume, the first American fern book,
+compares very favorably with the most recent. It contains fifty-nine
+full page plates reproduced from etchings, and is the only fern book so
+illustrated. More than 150 pages of text give an account of the species.
+Valued highly for its unique position among fern books, and hard to get
+at any price, this copy will not remain on hand long. Order at once.
+
+                WILLARD N. CLUTE & CO.,    JOLIET, ILL.
+
+
+
+
+                          Transcriber’s Notes
+
+
+—Retained publication information from the printed edition: this eBook
+  is public-domain in the country of publication.
+
+—Silently corrected a few palpable typos.
+
+—Generated a spine image based on elements in the cover.
+
+—Added a Table of Contents.
+
+—In the text versions only, text in italics is delimited by
+  _underscores_.
+
+
+
+
+
+
+
+End of Project Gutenberg's The Fern Bulletin, April 1912, by Various
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE FERN BULLETIN, APRIL 1912 ***
+
+***** This file should be named 57280-0.txt or 57280-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/7/2/8/57280/
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
