@@ -20,11 +20,17 @@ for line in sys.stdin:
             else:
                 e_book_dictionary[word] = 1
 
-    #for word in e_book_dictionary.keys():
-    #    print(word + " " + str(e_book_dictionary[word]))        
+
+for top_words in range(0,50):
+
+    for word in sorted(e_book_dictionary, key = e_book_dictionary.get,reverse=True):
+        if word.startswith('e') or word.endswith('e'):
+            print (word, e_book_dictionary[word])
+            top_words = top_words + 1
     #---print the top 50 words that begins with or ends with 'e'
-    for top_words in range(0,50):
-        for word in sorted(e_book_dictionary, key = e_book_dictionary.get,reverse=True):
-            if word.startswith('e') or word.endswith('e'):
-                print (word,e_book_dictionary[word])
-                top_words = top_words + 1
+    #for top_words in range(0,50):
+    #for word in sorted(e_book_dictionary, key = e_book_dictionary.get,reverse=True):
+     #   print (word, e_book_dictionary[word])
+    #        if word.startswith('e') or word.endswith('e'):
+     #           print (word,e_book_dictionary[word])
+     #           top_words = top_words + 1

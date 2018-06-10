@@ -1,0 +1,272 @@
+﻿The Project Gutenberg EBook of The Fern Bulletin, April 1912, by Various
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: The Fern Bulletin, April 1912
+       A Quarterly Devoted to Ferns
+
+Author: Various
+
+Editor: Willard N. Clute
+
+Release Date: June 5, 2018 [EBook #57280]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE FERN BULLETIN, APRIL 1912 ***
+
+
+
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+
+
+
+
+
+
+
+
+                          _Vol. XX_    _No. 2_
+
+
+
+
+                                  _The
+                             Fern Bulletin_
+
+
+                     _A Quarterly Devoted to Ferns_
+
+
+                                _April_
+
+
+                             _Joliet, Ill.
+                      Willard N. Clute & Company_
+                                  1912
+
+    [Illustration: The Fern Bulletin: A QUARTERLY DEVOTED TO FERNS]
+
+             _AWARDED GRAND PRIZE AT THE PARIS EXPOSITION_
+                  _25 Cents a Copy_    _$1.00 a Year_
+                        WILLARD N. CLUTE, EDITOR
+
+To insure subscribers against loss of one or more numbers between the
+expiration and renewal of their subscriptions the journal will be sent
+until ordered stopped. All arrearages must be paid. Remittances may be
+made by money order, stamps, currency or drafts and personal checks
+drawn on Chicago or New York. Checks on other banks must contain 10
+cents for collection.
+
+          WILLARD N. CLUTE & COMPANY, PUBLISHERS, JOLIET, ILL.
+
+ Entered at the Post Office, Joliet, Ill., as second-class mail matter
+
+
+                          60 YEARS’ EXPERIENCE
+
+                                Patents
+                              Trade Marks
+                                Designs
+                             Copyrights &c.
+
+Anyone sending a sketch and description may quickly ascertain our
+opinion free whether an invention is probably patentable. Communications
+strictly confidential. HANDBOOK on Patents sent free. Oldest agency for
+securing patents.
+
+Patents taken through Munn & Co. receive _special notice_, without
+charge, in the
+
+                         _Scientific American._
+
+A handsomely Illustrated weekly. Largest circulation of any scientific
+journal. Terms, $3 a year; four months, $1. Sold by all newsdealers.
+
+                   MUNN & Co. 361 Broadway, New York
+               Branch Office, 626 F St. Washington, D.C.
+
+
+                               VOLUME VI
+                              Out of Print
+
+It is not likely that there will be any more “last appearances” of
+Volume VI. The best we can do now is to begin with volume VII. We offer
+the next 13 volumes (7-19) for $9.00 and will present to each purchaser
+a copy of 10 year index, Boston Meeting Papers and Ferns of Upper
+Susquehanna as well as 3 different numbers of Vol. VI. Single volumes 75
+cents.
+
+                        WILLARD N. CLUTE & CO.,
+                              Joliet, Ill.
+
+
+                           SOME SPECIAL OFFERS
+
+  THIS MAGAZINE ONE YEAR
+  With any back volume later than Vol. 9                          $1.25
+  With any two back volumes later than Vol. 9                      1.60
+  With set of the Fern Bulletin (Vols. 7-18)                       8.00
+  With the New Gray’s Manual ($2.50)                               3.00
+  With a Solid Steel Trowel, 8-in. blade, (40c)                    1.00
+  With any Book or Magazine for 50c additional.
+
+  N. B.—Above prices are for subscriptions strictly in advance. Personal
+  checks will not be accepted unless cost of collection is added.
+
+                         Address all orders to
+                         WILLARD N. CLUTE & CO.
+                            JOLIET, ILLINOIS
+
+    [Illustration: GYMNOGRAMMA LANCEOLATA]
+
+
+
+
+                                CONTENTS
+
+
+  The Fern Flora of Illinois                                           32
+      Ophioglossaceae                                                  35
+      Osmundaceae                                                      35
+      Polypodiaceae                                                    36
+      Salviniaceae                                                     40
+      Equisetaceae                                                     40
+      Lycopodiaceae                                                    41
+      Salaginellaceae                                                  41
+      Isoetaceae                                                       42
+  A Problematical Fern (Gymnogramma lanceolata)                        42
+  The Tall Spleenworts                                                 45
+  Further Notes on Variation in Botrychium Ramosum                     47
+  Rare Forms of Fernworts—XXII                                         48
+      Still Another Christmas Fern                                     48
+      Polystichum acrostichoides f. Gravesii                           49
+  Notes on Various Ferns                                               51
+  Schizaea Pusilla at Home                                             53
+  Pteridographia                                                       55
+  Index to Recent Literature                                           60
+  Editorial                                                            61
+  Book Notes                                                           62
+
+                                 THE FERN BULLETIN
+    Vol. XX                      APRIL, 1912                        No. 2
+
+
+
+
+                      THE FERN FLORA OF ILLINOIS.
+
+
+                             By E. J. Hill.
+
+The state of Illinois has an area of about 55,000 square miles. It lies
+between the parallels 37° and 42° 30′, thus giving a length of 5½° or
+about 380 miles. This north and south extension produces a milder
+climate in the southern part, but no fern of essentially southern
+distribution comes in except _Polypodium polypodioides_, though the two
+quill-worts of the state are perhaps better placed under this head also.
+It is the lowest of the north-central states in average altitude, the
+mean above sea level being about 600 feet, varying from 300 feet at the
+junction of the Ohio and Mississippi rivers to 1250 feet at the
+Wisconsin line in the extreme northwest part. As there is nothing in
+these extremes of elevation to effect material changes of temperature
+due to altitude, its floristic features are not much modified in respect
+of this. Anything of this character must be ascribed to local
+conditions, not general causes. Another factor that affects its
+floristic features is the dominance of prairie within its boundary, the
+forests and woodlands, sometimes very narrow strips, chiefly bordering
+its streams and lakes. Since lands covered with grass are not adapted to
+the growth of ferns, and consequently are limited in species, their
+number and variety must be much restricted for this reason. This must
+have been the case in the primitive condition of the prairies before
+they were so generally taken up for cultivation. The loss in the
+original fern-flora is slight in this regard when compared with that of
+flowering plants. As nearly all of the state is in the region of the
+glacial drift, the soil is influenced by this condition also. The
+ravines cut in the drift and in the underlying rock where it is reached,
+with their varying degrees of moisture and shade, show the greatest
+variety in fern-life, though a greater abundance of certain kinds may be
+found in woods and swamps. The prevailing rocks are limestone, but
+sandstones occur in some localities, especially along the Illinois and
+Rock rivers. These in some parts of the state, particularly in the coal
+measures, the area of which is large, may be interstratified with shales
+and slate. These rocks and the soils resulting from their disintegration
+and decomposition, taken in connection with those of the glacial drift,
+provide a fair range of edaphic conditions for the growth of ferns. It
+is evident that such as prefer a calcareous soil will be best
+represented, if any preference of this kind inheres in their nature.
+
+It will be seen from the list that not quite one half (56) of the
+Pteridophytes accorded specific rank in “Gray’s New Manual of Botany”
+(115) are reported from this state. The genera are represented in larger
+proportion, 23 of the 31 given, or if _Athyrium_ be separated, 24 of 32,
+or three-fourths of them. All the species of several of the smaller
+genera are found, up to three in the case of _Osmunda_, but all of none
+with species exceeding this number. The genus most fully represented is
+_Equisetum_, eight of the ten, or nine of eleven when _E. robustum_ is
+given specific rank. To these must be added _E. Ferrissii_, not in the
+Manual.
+
+Reliable data for the distribution of the ferns of the state are not
+very full. It is hoped that they may be made more complete by the
+co-operation of those into whose hands the list may fall. Many additions
+to the number of species can hardly be expected. Doubtless the state has
+been quite well explored in this respect. I find only two to add to
+those published by Patterson in 1876, _Isoetes Butleri_, described in
+1878 from specimens found in Indian Territory (Oklahoma) but since found
+in this state, and _Equisetum Ferrissii_, a recent addition. The list is
+mainly a compilation made at the request of the editor of the _Fern
+Bulletin_. No special fitness for the task is claimed, since my personal
+knowledge of the region covered is almost wholly confined to five of the
+northeastern counties, Kankakee, Will, Cook, Dupage and Lake. Only
+casual trips of slight duration have been made to other places. The
+publication most relied on for the state at large is the “Catalogue of
+the Phaenogamous and vascular cryptogamous plants of Illinois,” H. N.
+Patterson, Oquauka, Ill., 1876. His catalogue of plants growing in the
+immediate vicinity of Oquauka has also been used. Friedrich Brendel’s
+“Flora Peoriana, Budapest, 1882,” (the German edition, but since given
+in English, I believe) has furnished some definite information for a
+district around the city of Peoria. The floras of H. H. Babcock and of
+Higley and Raddin for Chicago and vicinity have likewise been consulted,
+but as they respect territory mainly familiar to the writer, could be
+cited but little.
+
+As explanatory of the plan followed I may state that I have first
+mentioned the localities or stations with which I am personally
+acquainted, and from which examples are in my herbarium unless very
+common throughout. Citations from Patterson’s catalogue for the state at
+large are entered in quotation marks followed by (P.). Where Peoria is
+given the authority is Brendel, where Oquauka, Patterson. A few have
+been furnished by V. H. Chase, who collected in Stark county and
+vicinity, and by Prof. Atwell of the Northwestern University, from data
+in the herbarium of the University.
+
+
+                            OPHIOGLOSSACEAE.
+
+Ophioglossum vulgatum (L.) “Wabash county, a single plant.” _Schneck._
+      (P.) Probably elsewhere, but easily overlooked.
+
+Botrychium obliquum (Muhl.) In open woods, Cook Co., rare. “S. Illinois.
+      _Vasey_, _Schneck_.” (P.) Peoria Co., _V. H. Chase_. Starved Rock.
+      _J. H. Ferriss._
+
+Botrychium obliquum dissectum. (Spreng.) Peoria Co., _V. H. Chase_.
+
+Botrychium virginianum. (L.) Common in rich woods in the northeastern
+      part of the state, and probably throughout. It often occurs in
+      colonies, sometimes of a dozen or more plants. In woods along Lake
+      Michigan it readies a height of two feet.
+
